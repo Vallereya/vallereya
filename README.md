@@ -1,4 +1,19 @@
-## Hi there 👋
+## <p align=center> 👋 Hi, I'm Vallereya! </p>
+
+
+## 💻 Skillset
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=md,bash,wasm,html,css,js,py,lua,crystal,ruby,swift,kotlin,java,cs,c,cpp&theme=dark&perline=4"/>
+  </a>
+</p>
+
+<!--
+## 💻 Tech Stack
+
+## 💻 Platforms
+-->
 
 <!--
 **Vallereya/vallereya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

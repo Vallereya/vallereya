@@ -1,8 +1,13 @@
-<h1 align="center"> 👋 Hi, I'm Vallereya! </h1>
 <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Display&size=24&pause=1000&color=E7CD54&center=true&vCenter=true&lines=I+am+a+programmer;I+am+a+game+developer;I+am+a+mechatronics+engineer" alt="Typing SVG"/>
-  </a>
+        <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Display&size=24&pause=1000&color=E7CD54&center=false&vCenter=true&repeat=false&lines=%F0%9F%91%8B+Hi%2C+I'm+Vallereya!" alt="Typing SVG"/>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Display&size=24&pause=1000&color=D6D6D6&center=true&vCenter=true&lines=I+am+a+programmer.;I+am+a+game+developer.;I+am+a+mechatronics+engineer." alt="Typing SVG"/>
+    </a>
 </p>
 
 ## 💻 Skillset

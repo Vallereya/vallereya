@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,bash,crystal,ruby,py,lua,kotlin,swift,java,cs,cpp,c,wasm,js,css,html&theme=dark&perline=4"/>
+    <img src="https://skillicons.dev/icons?i=md,bash,crystal,ruby,py,lua,kotlin,swift,java,cs,css,html,cpp,c,wasm,js&theme=dark&perline=4"/>
   </a>
 </p>
 

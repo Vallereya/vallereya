@@ -7,6 +7,8 @@
     </a>
 </p>
 
+<!--
+
 ## 💻 Skillset
 
 <p align="center">
@@ -15,7 +17,6 @@
   </a>
 </p>
 
-<!--
 ## 💻 Tech Stack
 
 ## 💻 Platforms

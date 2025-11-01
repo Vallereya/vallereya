@@ -84,13 +84,13 @@
             <br>
             <br>
             <div align="center">
-                <img src="https://skillicons.dev/icons?i=lua,crystal,ruby&theme=dark&perline=4"/>
+                <img src="https://skillicons.dev/icons?i=crystal,ruby&theme=dark&perline=4"/>
                 <br>
                 <br>
-                <img src="https://skillicons.dev/icons?i=rails&theme=dark&perline=4"/>
+                <img src="https://skillicons.dev/icons?i=lua,cpp&theme=dark&perline=4"/>
                 <br>
                 <br>
-                <img src="https://skillicons.dev/icons?i=,&theme=dark&perline=4"/>
+                <img src="https://skillicons.dev/icons?i=js,typescript&theme=dark&perline=4"/>
             </div>
         </td>
         <td align="center">
@@ -98,10 +98,10 @@
             <br>
             <br>
             <div align="center">
-                <img src="https://skillicons.dev/icons?i=lua,kotlin,swift,java&theme=dark&perline=4"/>
+                <img src="https://skillicons.dev/icons?i=kotlin,swift,java&theme=dark&perline=4"/>
                 <br>
                 <br>
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet&theme=dark&perline=4"/>
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cs,dotnet&theme=dark&perline=4"/>
                 <br>
                 <br>
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=py,mojo,anaconda,django&theme=dark&perline=4"/>
@@ -112,13 +112,13 @@
             <br>
             <br>
             <div>
-                <img src="https://skillicons.dev/icons?i=wasm,css,tailwindcss,html&theme=dark&perline=4"/>
+                <img src="https://skillicons.dev/icons?i=wasm,css,html&theme=dark&perline=4"/>
                 <br>
                 <br>
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=js,typescript,react,htmx&theme=dark&perline=4"/>
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=react,htmx,nodejs&theme=dark&perline=4"/>
                 <br>
                 <br>
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=svelte,jquery,nodejs&theme=dark&perline=4"/>
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss,svelte,jquery,rails&theme=dark&perline=4"/>
             </div>
         </td>
     </tr>

@@ -48,13 +48,13 @@ Thank you for being part of it. 💜
 
 ## <p align="left"> 📊 My Stats
 <section align="center">
-    <picture>
+    <picture align="center">
         <img 
             height=200 align="center"
             src="https://github-readme-stats.vercel.app/api?username=vallereya&show_icons=true&theme=tokyonight&bg_color=00000000"
         />
     </picture>
-    <picture>
+    <picture align="center">
         <img 
             height=200 align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=vallereya&layout=compact&langs_count=8&card_width=320&theme=tokyonight&bg_color=00000000"
@@ -62,7 +62,7 @@ Thank you for being part of it. 💜
     </picture>
 </section>
 
-##### <p align="center"> ***NOTE:*** *Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
+###### <p align="center"> *NOTE: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
 
 ---
 

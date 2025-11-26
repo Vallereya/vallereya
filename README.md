@@ -2,16 +2,17 @@
     <img src="./assets/bg.gif" width="655"> </img>
 </div>
 <table align="center">
-    <tr>
-        <td>
-            <img src="./assets/banner.png" width="300"> </img>
+    <tr align="center">
+        <td align="center">
+            <img src="./assets/banner.png" width="300" align="center"> </img>
         </td>
-        <td>
-            <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Display&size=24&pause=1000&color=D6D6D6&center=true&vCenter=true&lines=I+am+a+programmer.;I+am+a+developer.;I+am+an+engineer." alt="Typing SVG" width="300"/> </img>
+        <td align="center">
+            <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Display&size=24&pause=1000&color=D6D6D6&center=true&vCenter=true&lines=I+am+a+programmer.;I+am+a+developer.;I+am+an+engineer." alt="Typing SVG" width="300" align="center"/> </img>
         </td>
 </table>
 
 ## <p align="left"> 💡 About Me
+
 I'm originally a self-taught developer, starting when I was 13 and with Java. Now, with traditional training in Computer Science and Engineering from University and earned my stripes in the industry, quite literally too I might add via the Army as a 25N. Coming up on 2 decades of programming! 💪🏼
 <br>
 
@@ -25,6 +26,7 @@ Thank you for being part of it. 💜
 <br>
 
 ## <p align="left"> ⚡ My Technologies *(languages, frameworks & tools)*
+
 <div align="center">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript&theme=dark" width="150"/>                                    </img> <br>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=wasm,python,mojo,lua&theme=dark" width="150"/>                                      </img> <br>
@@ -47,6 +49,7 @@ Thank you for being part of it. 💜
 </div>
 
 ## <p align="left"> 📊 My Stats
+
 <section align="center">
     <picture align="center">
         <img 
@@ -67,7 +70,7 @@ Thank you for being part of it. 💜
 ---
 
 <section align="center">
-    <picture>
+    <picture align="center">
         <img 
             height=400 align="center"
             src="https://github-readme-activity-graph.vercel.app/graph?username=Vallereya&theme=tokyo-night&bg_color=00000000"

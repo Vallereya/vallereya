@@ -54,13 +54,13 @@ Thank you for being part of it. 💜
     <picture align="center">
         <img 
             height=200 align="center"
-            src="https://github-readme-stats.vercel.app/api?username=vallereya&show_icons=true&theme=tokyonight&bg_color=00000000"
+            src="https://github-readme-stats.vercel.app/api?username=vallereya&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"
         />
     </picture>
     <picture align="center">
         <img 
             height=200 align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=vallereya&layout=compact&langs_count=8&card_width=320&theme=tokyonight&bg_color=00000000"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=vallereya&layout=compact&langs_count=8&card_width=320&theme=tokyonight&bg_color=00000000&hide_border=true"
         />
     </picture>
 </section>
@@ -73,7 +73,7 @@ Thank you for being part of it. 💜
     <picture align="center">
         <img 
             height=400 align="center"
-            src="https://github-readme-activity-graph.vercel.app/graph?username=Vallereya&theme=tokyo-night&bg_color=00000000"
+            src="https://github-readme-activity-graph.vercel.app/graph?username=Vallereya&theme=tokyo-night&bg_color=00000000&hide_border=true"
         />
     </picture>
 </section>
